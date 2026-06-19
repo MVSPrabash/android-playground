@@ -2,5 +2,6 @@
 
 Repo to experiment / learn android concepts. App development to OS experiments
 
-# Concepts
-- [ ] 
+# Concepts as Modules
+- [X] Compose
+- [ ] State
